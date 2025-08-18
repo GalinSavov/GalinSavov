@@ -1,11 +1,38 @@
-## Hi there 👋
+## Hi, I'm Galin Savov 👋
+**Software Engineer | .NET & Angular Specialist | Game Developer**
+ ## ⓘ About Me 
+ - 🎓 Bachelor's Degree in ICT & Software Engineering from Fontys University of Applied Sciences
+ - 💼 1 year of work experience as a C# Game Programmer Intern in the Netherlands
+ - 👨🏻‍💻 Currently specializing in .NET & Angular by building full-stack projects
+## 🛠️ Tech Stack  
+**Backend:**  
+- 🟦 C# / .NET Core | REST APIs | Entity Framework  
+- 🛢️ Databases: SQL Server, MongoDB  
+
+**Frontend:**  
+- 🅰️ Angular | TypeScript | RxJS  
+- 🎨 HTML/CSS | Responsive Design  
+
+**Game Dev:**  
+- 🎮 Unity | C# Scripting | OOP
+
+## 🌟 Highlighted Projects  
+▶ **[Dating App](https://github.com/GalinSavov/DatingAppProject)**  
+- Full-stack .NET/Angular app with **JWT auth, real-time messaging, and custom filters**  
+
+▶ **[Turn-Based Strategy Game](https://github.com/GalinSavov/Turn-Based-Strategy)**  
+- Unity game with **A * pathfinding, grid systems, and combat logic**
+  
+## 🤝 Let's Connect
+ - 📧 Email: galinsavov34@gmail.com
+ - 🟦 LinkedIn: https://www.linkedin.com/in/galin-savov 
 
 <!--
 **GalinSavov/GalinSavov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... dd
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
