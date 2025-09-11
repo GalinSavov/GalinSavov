@@ -19,7 +19,10 @@
 ## 🌟 Highlighted Projects  
 ▶ **[Dating App](https://github.com/GalinSavov/DatingAppProject)**  
 - Full-stack .NET/Angular app with **JWT auth, real-time messaging, and custom filters**
-- Link to App on Azure(https://dating-app-2025.azurewebsites.net)  
+- Link to App on Azure (https://dating-app-2025.azurewebsites.net)
+
+▶ **[E-Commerce App](In progress..⌛)(https://github.com/GalinSavov/e-commerce-app-2025)**  
+- Full-stack .NET/Angular app with **shopping cart, product filters, orders, and secure payment** 
 
 ▶ **[Turn-Based Strategy Game](https://github.com/GalinSavov/Turn-Based-Strategy)**  
 - Unity game with **A * pathfinding, grid systems, and combat logic**
