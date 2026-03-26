@@ -25,7 +25,7 @@
 - Full-stack .NET/Angular app with **shopping cart, product filters, orders, and secure payment with Stripe**
 - Link to App on Azure (https://pinchharmonics.azurewebsites.net)
 
-▶ **[Microservices App with .NET,NextJS](in progress)**  
+▶ **[Microservices App with .NET,NextJS]([in progress](https://github.com/GalinSavov/Microservices-App))**  
 ## 🤝 Let's Connect
  - 📧 Email: galinsavov34@gmail.com
  - 🟦 LinkedIn: https://www.linkedin.com/in/galin-savov 
